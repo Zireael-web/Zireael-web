@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Абстрактный знак интерфейса</title>
+  <desc id="description">Мягкие округлые компоненты в шалфейном и лавандовом цветах. Без букв и монограмм.</desc>
+  <rect width="512" height="512" rx="112" fill="#f5f4ed"/>
+  <circle cx="256" cy="256" r="186" fill="#e6e9dd"/>
+  <rect x="103" y="129" width="306" height="74" rx="37" fill="#afc3a8"/>
+  <rect x="103" y="226" width="105" height="152" rx="35" fill="#c8c2d9"/>
+  <rect x="232" y="226" width="177" height="152" rx="35" fill="#afc3a8"/>
+  <path d="M276 302h84m-27-27 27 27-27 27" fill="none" stroke="#f5f4ed" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
