@@ -17,8 +17,6 @@ const zireael = {
 };
 ```
 
-Я работал с TypeScript, React, Vue, Next.js, BFF. Участвовал в разработке монолитных и микросервисных проектов.
-
 ### Рабочий стек
 
 **Frontend:** React · Vue · Next.js · TypeScript · JavaScript · HTML5 · CSS3 / SCSS  
