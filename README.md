@@ -1,6 +1,6 @@
 <picture>
   <source media="(max-width: 640px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" alt="Zireael-web. Фронтенд-разработчик. Почти шесть лет коммерческого опыта, в том числе в финтехе." width="100%">
+  <img src="assets/hero.svg" alt="Zireael-web. Software Engineer. Почти шесть лет коммерческого опыта, в том числе в финтехе." width="100%">
 </picture>
 
 ![React](assets/react.svg) ![Vue](assets/vue.svg) ![Next.js](assets/next.js.svg) ![TypeScript](assets/typescript.svg) ![JavaScript](assets/javascript.svg) ![AI](assets/ai.svg) ![Codex](assets/codex.svg) ![Claude Code](assets/claude-code.svg) ![MCP](assets/mcp.svg) ![sub-agents](assets/sub-agents.svg)
@@ -9,7 +9,7 @@
 
 ```js
 const zireael = {
-  role:     "Фронтенд-разработчик",
+  role:     "Software Engineer",
   stack:    ["React", "Vue", "Next.js", "TypeScript"],
   aiTools:  ["Codex", "Claude Code", "MCP", "sub-agents"],
   builds:   ["Web-интерфейсы", "Браузерные расширения"],
@@ -21,9 +21,14 @@ const zireael = {
 
 ### Рабочий стек
 
-**Frontend:** WebSockets · gRPC · REST · HTML · CSS / SCSS · Micro frontends  
-**Инструменты:** Webpack · Jest · Git · GitHub Actions  
-**AI-инструменты:** Codex · Claude Code · MCP · sub-agents  
+**Frontend:** React · Vue · Next.js · TypeScript · JavaScript · HTML5 · CSS3 / SCSS  
+**Состояние, формы и навигация:** Redux · RTK Query · RxJS · React Hook Form · React Router · I18Next  
+**UI и визуализация:** MUI · Tailwind CSS · Linaria · React Charts · TanStack Table  
+**Архитектура:** BFF · Micro frontends · Module Federation · PWA  
+**API и интеграции:** REST API · WebSockets · gRPC / gRPC-Web · Connect RPC · Axios  
+**Сборка и тестирование:** Webpack · Vite · Jest · npm · yarn  
+**Инструменты:** Git · GitHub Actions · Figma  
+**AI-инструменты:** Codex · Claude Code · MCP · skills · sub-agents  
 **Расширения:** Chrome / Chromium · Manifest V3 · Web APIs
 
 ### Frontend-проекты
