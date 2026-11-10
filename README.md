@@ -53,7 +53,7 @@ const zireael = {
   <img src="assets/health.svg" alt="Health Evidence Workbench. Медицинские PDF, изображения, расшифровки и история записей." width="100%">
 </picture>
 
-**[Health Evidence Workbench](https://github.com/Zireael-web/health-evidence-workbench)** - набор Python-инструментов для работы с медицинскими документами и научными источниками в ChatGPT/Codex. Помогает сохранять оригиналы и расшифровки, проверять записи, сравнивать результаты во времени и искать научные публикации через PubMed и Crossref.
+**[Health Evidence Workbench](https://github.com/Zireael-web/health-evidence-workbench)** - набор Python-инструментов для работы с медицинскими документами и научными источниками в ChatGPT/Codex. Помогает сохранять оригиналы и расшифровки, проверять записи, сравнивать результаты во времени и искать научные публикации через PubMed и Crossref. Сейчас проектом пользуются несколько десятков человек.
 
 ### Другие проекты и инструменты
 
